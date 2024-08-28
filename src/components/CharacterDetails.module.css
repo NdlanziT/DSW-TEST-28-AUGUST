@@ -1,0 +1,11 @@
+/* CharacterDetails.module.css */
+.detailsContainer {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.backButton {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
